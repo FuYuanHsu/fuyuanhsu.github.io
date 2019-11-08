@@ -1,9 +1,9 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: 許富淵的 Arduino 雜記
+description: "A Jekyll Blog Theme For Arduino 雜記"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "許富淵"
+  email: "student.fuyuanhsu@gmail.com"
+  url: "https://fuyuanhsu.github.io/"
 
 baseurl: /
 
